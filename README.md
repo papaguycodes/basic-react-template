@@ -13,13 +13,6 @@ Welcome to the **ReactJS Application Template**, a clean and minimal starter tem
 ---
 
 ## Table of Contents
-
-1. [Getting Started](#getting-started)
-2. [Project Structure](#project-structure)
-3. [Available Scripts](#available-scripts)
-4. [Contributing](#contributing)
-5. [License](#license)
-
 ---
 
 ## Getting Started
