@@ -2,6 +2,9 @@
 
 Welcome to the **ReactJS Application Template**, a clean and minimal starter template for building modern React applications. This project is designed for developers looking for a simple foundation to kickstart their ReactJS projects.
 
+#package.json
+
+When initializing the project using npx create-react-app my-react-app, this file will be generated automatically with dependencies like react, react-dom, etc.
 ---
 
 ## Features
