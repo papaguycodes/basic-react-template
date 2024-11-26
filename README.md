@@ -32,5 +32,5 @@ Follow these instructions to set up the project on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PaPaGuyCodes/basic-react-template.git
+   git clone https://github.com/papaguycodes/basic-react-template.git
    cd basic-react-template
